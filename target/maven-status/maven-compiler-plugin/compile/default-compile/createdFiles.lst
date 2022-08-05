@@ -1,0 +1,6 @@
+com\railson\Aluguel.class
+com\railson\PessoaFisica.class
+com\railson\PessoaJuridica.class
+com\railson\Aplicacao.class
+com\railson\model\Cliente.class
+com\railson\tipoVeiculo.class
